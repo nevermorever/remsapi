@@ -1,0 +1,12 @@
+[
+  {
+    "model": "base.Tenant",
+    "pk": 1,
+    "fields": {
+      "name": "湖北芝友机电工程有限公司",
+      "is_supertenant": true,
+      "created": "2018-03-02 02:53:26",
+      "modified": "2018-03-02 02:53:26"
+    }
+  }
+]
